@@ -1,1 +1,47 @@
-# COMSOL
+# ⚙️ COMSOL Multiphysics Projects
+
+Welcome to my collection of **COMSOL Multiphysics** simulation projects! This repository contains models developed for analyzing and visualizing various physical systems using the **finite element method (FEM)** in COMSOL.
+
+These projects span domains such as:
+- Heat transfer
+- Electromagnetics
+- Fluid dynamics
+- Multiphysics coupling
+
+---
+
+## 📁 Project Highlights
+
+| Project Name             | Physics Interface Used     | Description |
+|--------------------------|----------------------------|-------------|
+| `Capacitance Of Two Layered Dielectric`| Electromagnetic Induction | Computes Capacitance Between To Plates. |
+| `Magnetic Field Of Permanent Magnet`| Electromagnetic Induction | Computes Magnetic Field Intensity Exerted By Permanent Magnet. |
+| `Electromagnetic Radiation Of Half-Wave Dipole Antenna`| Electromagnetic Induction | Study Of Electromagnetic Radiation Due To Antenna. |
+| `Magnetic Field Due To Submarine`| Electromagnetic Induction | Study of Electromagnetic Waves Transmitted By Submarine |
+
+> 🔁 More projects to be added soon.
+
+---
+
+## 📦 Files Included
+
+Each project folder may include:
+
+- `.mph` — COMSOL model file
+- `.pdf` or `.png` — Exported results (plots, meshes, diagrams)
+- `.txt`, `.csv`, or `.mat` — Optional data exports
+- `README.md` — Model-specific documentation
+
+---
+
+## 🧰 Requirements
+
+- **COMSOL Multiphysics** (version-specific model files are noted in each project)
+- Optional: COMSOL add-on modules (RF Module, CFD Module, etc.)
+
+> Note: You’ll need a valid COMSOL license to open `.mph` files.
+
+---
+
+
+
